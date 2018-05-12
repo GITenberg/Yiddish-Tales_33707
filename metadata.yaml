@@ -1,0 +1,27 @@
+_repo: Yiddish-Tales_33707
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Frank, Helena
+    gutenberg_agent_id: '34814'
+    url: http://www.gutenberg.org/2009/agents/34814
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2010-09-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33707'
+  lccn: '12011712'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Yiddish -- Translations into English'
+- !lcc 'PJ'
+- !lcsh 'Jewish fiction'
+- !lcsh 'Jews -- Fiction'
+title: Yiddish Tales
+url: http://www.gutenberg.org/ebooks/33707
